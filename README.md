@@ -72,12 +72,6 @@ I enjoy working on real-world projects, improving performance, and learning new 
 
 ---
 
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=swapnilbharate&show_icons=true&theme=tokyonight)
-
----
-
 ### 🔗 Connect with Me
 
 - 📧 Email: bharateswapnil96@gmail.com  
