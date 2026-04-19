@@ -1,46 +1,89 @@
 <h1 align="center">Hi 👋, I'm Swapnil Bharate</h1>
-<h3 align="center">Frontend Developer | React.js Enthusiast 🚀</h3>
+<h3 align="center">Full Stack Developer | React.js | Java | SQL 🚀</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a B.E student passionate about web development.
-I enjoy building responsive and user-friendly web applications.
-Currently focusing on React.js and improving my frontend skills.
-I am actively working on real-world projects and looking for opportunities to grow as a developer.
+I am a Computer Engineering student passionate about building modern, scalable web applications.  
+I have hands-on experience in developing full-stack applications using the MERN stack and creating responsive, user-friendly interfaces.  
+
+I enjoy working on real-world projects, improving performance, and learning new technologies to grow as a developer.
 
 ---
 
 ### 🛠 Tech Stack
 
-* HTML, CSS, JavaScript
-* React.js
-* Bootstrap / Tailwind CSS
-* Git & GitHub
+#### 🚀 Languages
+- Java, JavaScript (ES6+)
+
+#### 🎨 Frontend
+- React.js, Redux, HTML5, CSS3, Bootstrap, jQuery
+
+#### 🗄 Database
+- MySQL
+
+#### ⚙️ Tools & Platforms
+- Git, GitHub, VS Code, MySQL Workbench
+
+---
+
+### 💼 Experience
+
+**MERN Stack Intern — EY Global Delivery Services (EY GDS)**  
+📅 Mar 2025 – Apr 2025  
+
+- Developed full-stack web applications using the MERN stack  
+- Designed responsive UI for better user experience  
+- Built and integrated RESTful APIs  
+- Optimized application performance and scalability  
 
 ---
 
 ### 📌 Projects
 
-* 🚗 Car Marketplace App (in progress)
-* 💰 Expense Tracker
-* ✅ Todo App
-* 📊 Admin Dashboard UI
+#### 🎓 LearnSphere – Adaptive Learning Platform (MERN Stack)
+- Full-stack app using React, Node.js, MongoDB  
+- Role-based authentication (Admin/User)  
+- Real-time dashboards & analytics  
+- AI chatbot integration (NLP + RAG)
+
+---
+
+#### 🚗 AutoMart – Used Car Marketplace (React.js)
+- Car search & filter functionality  
+- Role-based authentication  
+- Wishlist & detailed car pages  
+
+---
+
+#### 📊 Business Analytics Dashboard (React.js)
+- Interactive dashboard with charts & tables  
+- Reusable React components  
+- Clean and modern UI design  
+
+---
+
+### 📜 Certifications
+
+- AICTE EY GDS Internship (MERN Stack)
+- Full Stack Web Development Certification
+- NPTEL Big Data Computing (IIT Kanpur) – Score: 80%
 
 ---
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=swapnilbharate\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=swapnilbharate&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🔗 Connect with Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 📧 Email: bharateswapnil96@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/swapnilbharate96  
+- 💻 GitHub: https://github.com/swapnilbharate  
 
 ---
 
-✨ Always learning new technologies and improving my skills.
+⭐ Always learning, building, and improving as a developer.
