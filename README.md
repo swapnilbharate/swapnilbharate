@@ -219,3 +219,10 @@ A responsive analytics dashboard for visualizing business performance.
 </table>
 
 ---
+<h3 align="center">🚀 Code • Learn • Build • Grow</h3>
+
+<p align="center">
+  <i>"Turning ideas into scalable software, one line of code at a time."</i>
+</p>
+
+---
