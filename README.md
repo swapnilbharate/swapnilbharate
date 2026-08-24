@@ -5,14 +5,14 @@
 </h3>
 
 <p align="center">
+  <a href="https://swapnil-portfolio-theta.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/swapnilbharate96">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/swapnilbharate">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://swapnil-portfolio-theta.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:bharateswapnil96@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -41,12 +41,29 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td align="center" width="25%" valign="top">
 
 ### 💻 Languages
 
 - ☕ Java
 - 🟨 JavaScript (ES6+)
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+### 🎨 Frontend
+
+- ⚛️ React.js
+- Redux
+- jQuery
+- HTML5
+- CSS3
+- Bootstrap
+
+</td>
+
+<td align="center" width="25%" valign="top">
 
 ### ⚙️ Backend
 
@@ -61,18 +78,9 @@
 
 </td>
 
-<td valign="top" width="50%">
+<td align="center" width="25%" valign="top">
 
-### 🎨 Frontend
-
-- ⚛️ React.js
-- Redux
-- jQuery
-- HTML5
-- CSS3
-- Bootstrap
-
-### 🗄️ Database & Tools
+### 🔧 Tools & Database
 
 - MySQL
 - Git
@@ -209,38 +217,17 @@ A responsive analytics dashboard for visualizing business performance.
 
 ## 🎓 Education
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🎓 B.E. Computer Engineering
-
-**Trinity College of Engineering and Research, Pune**
-
-2022 – 2026  
-**CGPA: 7.96**
+**Trinity College of Engineering and Research, Pune**  
+**2022 – 2026 | CGPA: 7.96**
 
 ### 📚 HSC
-
-**Dadapatil Mahavidyalaya, Karjat**
-
-2021 – 2022  
-**61%**
-
-</td>
-
-<td width="50%" valign="top">
+**Dadapatil Mahavidyalaya, Karjat**  
+**2021 – 2022 | 61%**
 
 ### 📚 SSC
-
-**Shree Ravishankar Vidyamandir, Karjat**
-
-2019 – 2020  
-**86.80%**
-
-</td>
-</tr>
-</table>
+**Shree Ravishankar Vidyamandir, Karjat**  
+**2019 – 2020 | 86.80%**
 
 ---
 
