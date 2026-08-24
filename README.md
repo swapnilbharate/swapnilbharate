@@ -25,23 +25,13 @@
 
 🎓 **B.E. Computer Engineering graduate** from Trinity College of Engineering and Research, Pune.
 
-💻 **Java Full Stack Developer** with hands-on experience in:
+💻 **Java Full Stack Developer** with hands-on experience building responsive and scalable web applications using **Java, Spring Boot, React.js, and MySQL**.
 
-- Core Java & OOP
-- JDBC & Servlets
-- Hibernate & Spring MVC
-- Spring Boot
-- React.js & JavaScript
-- HTML5 & CSS3
-- MySQL
-- REST APIs
-- MVC Architecture
+⚙️ Experienced with **Core Java, OOP, JDBC, Servlets, Hibernate, Spring MVC, REST APIs, and MVC Architecture**.
 
-🚀 I enjoy building responsive, scalable and user-friendly web applications.
+🚀 I enjoy solving problems, debugging applications, writing clean and reusable code, and building real-world full-stack projects.
 
-🔍 Currently looking for opportunities as:
-
-**Java Full Stack Developer | Software Engineer | Backend Developer | Frontend Developer**
+🔍 **Open to:** Java Full Stack Developer • Software Engineer • Backend Developer • Frontend Developer
 
 📍 Pune, India
 
@@ -49,37 +39,50 @@
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
-</p>
+- ☕ Java
+- 🟨 JavaScript (ES6+)
 
 ### ⚙️ Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
-</p>
+- Spring Boot
+- Spring MVC
+- Hibernate (ORM)
+- Servlets
+- JDBC
+- Core Java & OOP
+- REST APIs
+- MVC Architecture
 
-`Core Java` • `OOP` • `JDBC` • `Servlets` • `Spring MVC` • `Spring Boot` • `Hibernate` • `REST APIs` • `MVC`
+</td>
+
+<td valign="top" width="50%">
 
 ### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,jquery,bootstrap" />
-</p>
+- ⚛️ React.js
+- Redux
+- jQuery
+- HTML5
+- CSS3
+- Bootstrap
 
-### 🗄️ Database
+### 🗄️ Database & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+- MySQL
+- Git
+- GitHub
+- VS Code
+- MySQL Workbench
 
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -109,13 +112,17 @@
 
 # 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## 🚗 AutoMart — Used Car Marketplace
 
 **React.js • Spring Boot • Hibernate • MySQL**
 
 A full-stack marketplace for buying and exploring second-hand vehicles.
 
-### Key Features
+**Key Features**
 
 - 🔐 Admin/User Authentication
 - 🛡️ Protected Routes
@@ -128,7 +135,9 @@ A full-stack marketplace for buying and exploring second-hand vehicles.
 - 💰 Offers Management
 - 🔌 RESTful APIs
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 💼 HireHub — Job Portal System
 
@@ -136,7 +145,7 @@ A full-stack marketplace for buying and exploring second-hand vehicles.
 
 A full-stack job portal connecting recruiters and job seekers.
 
-### Key Features
+**Key Features**
 
 - 🔐 Recruiter/Candidate Authentication
 - 👤 Profile Management
@@ -148,7 +157,11 @@ A full-stack job portal connecting recruiters and job seekers.
 - 📈 Recruitment Statistics
 - 🔌 RESTful APIs
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ## 📊 Business Analytics Dashboard
 
@@ -156,7 +169,7 @@ A full-stack job portal connecting recruiters and job seekers.
 
 A responsive analytics dashboard for visualizing business performance.
 
-### Key Features
+**Key Features**
 
 - 📈 Interactive Charts
 - 📊 Dynamic Tables
@@ -166,19 +179,68 @@ A responsive analytics dashboard for visualizing business performance.
 - 🎨 Modern UI
 - 📂 Data Management
 
+</td>
+
+<td width="50%" valign="top">
+
+## 💡 Development Focus
+
+**Frontend**
+- Responsive React applications
+- Reusable components
+- Modern UI
+
+**Backend**
+- Java & Spring Boot
+- RESTful APIs
+- Authentication
+- CRUD applications
+
+**Database**
+- MySQL
+- JDBC
+- Hibernate
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🎓 Education
 
-**B.E. Computer Engineering**  
-Trinity College of Engineering and Research, Pune  
-**2022 – 2026 | CGPA: 7.96**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**HSC — Dadapatil Mahavidyalaya, Karjat**  
-**2021 – 2022 | 61%**
+### 🎓 B.E. Computer Engineering
 
-**SSC — Shree Ravishankar Vidyamandir, Karjat**  
-**2019 – 2020 | 86.80%**
+**Trinity College of Engineering and Research, Pune**
+
+2022 – 2026  
+**CGPA: 7.96**
+
+### 📚 HSC
+
+**Dadapatil Mahavidyalaya, Karjat**
+
+2021 – 2022  
+**61%**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 SSC
+
+**Shree Ravishankar Vidyamandir, Karjat**
+
+2019 – 2020  
+**86.80%**
+
+</td>
+</tr>
+</table>
 
 ---
 
