@@ -1,195 +1,254 @@
 <h1 align="center">Hi 👋, I'm Swapnil Bharate</h1>
 
-<h3 align="center">
-  🚀 Java Full Stack Developer | Spring Boot | React.js | MySQL
-</h3>
+<h3 align="center">🚀 Java Full Stack Developer | Spring Boot | React.js | MySQL</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swapnilbharate96">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/swapnilbharate">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://swapnil-portfolio-theta.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:bharateswapnil96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swapnilbharate&label=Profile%20Views&style=flat-square"/>
+</p>
+
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 👨‍💻 About Me
 
-🎓 **B.E. Computer Engineering graduate** from Trinity College of Engineering and Research, Pune.
+🎓 B.E. Computer Engineering graduate from **Trinity College of Engineering and Research, Pune**.
 
-💻 **Java Full Stack Developer** with hands-on experience in:
+💻 Java Full Stack Developer with hands-on experience in:
 
-- Core Java & OOP
-- JDBC & Servlets
-- Hibernate & Spring MVC
-- Spring Boot
-- React.js & JavaScript
-- HTML5 & CSS3
-- MySQL
-- REST APIs
-- MVC Architecture
+* Java & OOP
+* JDBC & Servlets
+* Hibernate & Spring Boot
+* React.js & JavaScript
+* MySQL & REST APIs
+* MVC Architecture
 
-🚀 I enjoy building responsive, scalable and user-friendly web applications.
+🚀 Interested in building responsive, scalable and user-friendly web applications.
 
-🔍 Currently looking for opportunities as:
-
-**Java Full Stack Developer | Software Engineer | Backend Developer | Frontend Developer**
+🔍 **Open to:**
+Java Full Stack Developer • Software Engineer • Backend Developer • Frontend Developer
 
 📍 Pune, India
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+**Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css"/>
 
-### ⚙️ Backend
+**Backend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
-</p>
+<img src="https://skillicons.dev/icons?i=spring,hibernate"/>
 
-`Core Java` • `OOP` • `JDBC` • `Servlets` • `Spring MVC` • `Spring Boot` • `Hibernate` • `REST APIs` • `MVC`
+`Core Java` • `OOP` • `JDBC` • `Servlets`
+`Spring MVC` • `Spring Boot` • `REST APIs`
 
-### 🎨 Frontend
+**Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,jquery,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,redux,jquery,bootstrap"/>
 
-### 🗄️ Database
+**Database & Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode"/>
 
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Full Stack Intern — Envision Computer Training Institute
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Jan 2026 – Jun 2026 | Pune**
+### 🏢 Envision Computer Training Institute
 
-- Developed Java-based full-stack applications using **Core Java, JDBC and Servlets**.
-- Applied **OOP principles and MVC architecture**.
-- Debugged backend and frontend issues.
-- Collaborated on project development and testing.
-- Participated in code reviews and testing cycles.
+**Full Stack Intern**
+📅 Jan 2026 – Jun 2026 | Pune
 
-### 🏢 MERN Stack Intern — EY Global Delivery Services
+* Developed Java-based full-stack applications using **Core Java, JDBC & Servlets**
+* Applied **OOP & MVC Architecture**
+* Debugged frontend and backend issues
+* Participated in code reviews and testing
 
-**Mar 2025 – Apr 2025 | Remote**
+</td>
 
-- Developed full-stack applications using the **MERN stack**.
-- Designed responsive user interfaces.
-- Integrated **RESTful APIs**.
-- Debugged application issues and improved code efficiency.
-- Worked on application responsiveness and scalability.
+<td width="50%" valign="top">
+
+### 🏢 EY Global Delivery Services
+
+**MERN Stack Intern**
+📅 Mar 2025 – Apr 2025 | Remote
+
+* Developed full-stack applications using **MERN**
+* Built responsive user interfaces
+* Integrated **RESTful APIs**
+* Improved application performance and code efficiency
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🚗 AutoMart — Used Car Marketplace
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 AutoMart
 
 **React.js • Spring Boot • Hibernate • MySQL**
 
-A full-stack marketplace for buying and exploring second-hand vehicles.
+Used Car Marketplace
 
-### Key Features
+🔐 Admin/User Authentication
+🛡️ Protected Routes
+🔎 Search & Filtering
+❤️ Wishlist
+📊 Admin Dashboard
+🔌 REST APIs
 
-- 🔐 Admin/User Authentication
-- 🛡️ Protected Routes
-- 🚘 Vehicle Browsing
-- 🔎 Search & Filtering
-- ❤️ Wishlist
-- 📄 Vehicle Details
-- 📊 Admin Dashboard
-- 👥 User Management
-- 💰 Offers Management
-- 🔌 RESTful APIs
+</td>
 
----
+<td width="50%" valign="top">
 
-## 💼 HireHub — Job Portal System
+### 💼 HireHub
 
-**Spring Boot • Java Servlets • JDBC • MySQL • JavaScript**
+**Spring Boot • Servlets • JDBC • MySQL**
 
-A full-stack job portal connecting recruiters and job seekers.
+Job Portal System
 
-### Key Features
+🔐 Recruiter/Candidate Authentication
+👤 Profile Management
+📢 Job Posting
+📄 Application Tracking
+📊 Admin Dashboard
+🔌 REST APIs
 
-- 🔐 Recruiter/Candidate Authentication
-- 👤 Profile Management
-- 📢 Job Posting
-- 📄 Job Applications
-- 📊 Application Tracking
-- 🛠️ Admin Dashboard
-- 👥 User Management
-- 📈 Recruitment Statistics
-- 🔌 RESTful APIs
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
-## 📊 Business Analytics Dashboard
+### 📊 Business Analytics Dashboard
 
 **React.js • JavaScript • Bootstrap • CSS3**
 
-A responsive analytics dashboard for visualizing business performance.
+📈 Interactive Charts
+📊 Dynamic Tables
+🎯 KPI Cards
+🧩 Reusable Components
+📱 Responsive Design
+🎨 Modern UI
 
-### Key Features
+</td>
 
-- 📈 Interactive Charts
-- 📊 Dynamic Tables
-- 🎯 KPI Cards
-- 🧩 Reusable React Components
-- 📱 Responsive Design
-- 🎨 Modern UI
-- 📂 Data Management
+<td width="50%" valign="top">
+
+### 💡 What I Build
+
+**Frontend**
+
+* Responsive React applications
+* Reusable components
+* Modern UI
+
+**Backend**
+
+* Java/Spring Boot APIs
+* Authentication
+* CRUD applications
+
+**Database**
+
+* MySQL
+* Database design
+* JDBC / Hibernate
+
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🎓 Education
 
-**B.E. Computer Engineering**  
-Trinity College of Engineering and Research, Pune  
+**B.E. Computer Engineering**
+Trinity College of Engineering and Research, Pune
 **2022 – 2026 | CGPA: 7.96**
 
-**HSC — Dadapatil Mahavidyalaya, Karjat**  
-**2021 – 2022 | 61%**
+**HSC — Dadapatil Mahavidyalaya**
+2021 – 2022 | **61%**
 
-**SSC — Shree Ravishankar Vidyamandir, Karjat**  
-**2019 – 2020 | 86.80%**
+**SSC — Shree Ravishankar Vidyamandir**
+2019 – 2020 | **86.80%**
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 📜 Certifications
 
-🏆 **AICTE EYGDS Internship Certificate**  
-MERN Stack Training & Practical Web Development
+🏆 **AICTE EYGDS Internship Certificate**
+MERN Stack Training & Projects
 
 🏆 **Full Stack Web Development Certification**
 
-🏆 **NPTEL — Big Data Computing**  
-IIT Kanpur | **Score: 80%**
+🏆 **NPTEL — Big Data Computing**
+IIT Kanpur
+**Score: 80%**
+
+</td>
+</tr>
+</table>
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swapnilbharate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilbharate&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=swapnilbharate&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+<h3 align="center">🚀 Code • Learn • Build • Improve</h3>
+
+<p align="center">
+  <i>Always learning and building better software.</i>
+</p>
