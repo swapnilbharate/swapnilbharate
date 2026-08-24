@@ -19,10 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swapnilbharate&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -197,60 +193,3 @@ MERN Stack Training & Practical Web Development
 IIT Kanpur | **Score: 80%**
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swapnilbharate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilbharate&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=swapnilbharate&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swapnilbharate&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/swapnilbharate96">
-<img src="https://img.shields.io/badge/LinkedIn-Swapnil%20Bharate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/swapnilbharate">
-<img src="https://img.shields.io/badge/GitHub-swapnilbharate-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://swapnil-portfolio-theta.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-My%20Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:bharateswapnil96@gmail.com">
-<img src="https://img.shields.io/badge/Email-bharateswapnil96@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">
-  🚀 Code • Learn • Build • Improve
-</h3>
-
-<p align="center">
-  <i>Always learning and building better software.</i>
-</p>
