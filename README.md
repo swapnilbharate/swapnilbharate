@@ -8,14 +8,13 @@
   <a href="https://swapnil-portfolio-theta.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/swapnilbharate96">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/swapnilbharate">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:bharateswapnil96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -39,9 +38,10 @@
 
 ## 🛠️ Tech Stack
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="25%" valign="top">
+
+<td width="25%" valign="top">
 
 ### 💻 Languages
 
@@ -50,7 +50,7 @@
 
 </td>
 
-<td align="center" width="25%" valign="top">
+<td width="25%" valign="top">
 
 ### 🎨 Frontend
 
@@ -63,7 +63,7 @@
 
 </td>
 
-<td align="center" width="25%" valign="top">
+<td width="25%" valign="top">
 
 ### ⚙️ Backend
 
@@ -78,7 +78,7 @@
 
 </td>
 
-<td align="center" width="25%" valign="top">
+<td width="25%" valign="top">
 
 ### 🔧 Tools & Database
 
@@ -89,6 +89,7 @@
 - MySQL Workbench
 
 </td>
+
 </tr>
 </table>
 
@@ -120,8 +121,9 @@
 
 # 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
 ## 🚗 AutoMart — Used Car Marketplace
@@ -166,9 +168,11 @@ A full-stack job portal connecting recruiters and job seekers.
 - 🔌 RESTful APIs
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ## 📊 Business Analytics Dashboard
@@ -210,6 +214,7 @@ A responsive analytics dashboard for visualizing business performance.
 - Hibernate
 
 </td>
+
 </tr>
 </table>
 
@@ -218,14 +223,17 @@ A responsive analytics dashboard for visualizing business performance.
 ## 🎓 Education
 
 ### 🎓 B.E. Computer Engineering
+
 **Trinity College of Engineering and Research, Pune**  
 **2022 – 2026 | CGPA: 7.96**
 
 ### 📚 HSC
+
 **Dadapatil Mahavidyalaya, Karjat**  
 **2021 – 2022 | 61%**
 
 ### 📚 SSC
+
 **Shree Ravishankar Vidyamandir, Karjat**  
 **2019 – 2020 | 86.80%**
 
